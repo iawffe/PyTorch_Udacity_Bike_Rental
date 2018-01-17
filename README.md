@@ -1,2 +1,3 @@
 # PyTorch_Udacity_Bike_Rental
-Udacity DLND First NN Assignment Implemented in PyTorch
+
+Taking my journey in PyTorch and DeepLearning. In this exercise, I redo the Udacity DLND First NN Assignment in PyTorch.
